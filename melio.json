@@ -1,0 +1,1401 @@
+{
+  "docs": [
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": false,
+      "groups": [
+        {
+          "_id": "5ccc3c5c3e7d3c2c12708684",
+          "name": "WorldDominationMVP",
+          "id": "5ccc3c5c3e7d3c2c12708684"
+        }
+      ],
+      "locations": [ "5f898ef595dfe00018f71d3f", "5f75b4a4996f0e0018c009c9" ],
+      "categories": [],
+      "questionnaires": [ "covid_test" ],
+      "professionalQuestionnaires": [ "fit_for_phlebotomy" ],
+      "markers": [],
+      "ignored": [],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": {
+        "SuperdrugServiceId": "14512",
+        "unilabsUK": "5678",
+        "superdrugServiceId": "2511676",
+        "unilabs": "1234",
+        "superdrugCompanyId": "8345"
+      },
+      "hasPreviewEnabled": true,
+      "priority": 1000,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5eda98366c6be10018d36a9e",
+      "name": "COVID-19 Antibodies",
+      "sku": 1919,
+      "price": 79,
+      "country": "GB",
+      "emailPurchaseTemplateId": "d-11a42fe639f449b8b0d108eadbfbf6c6",
+      "h1": "Identifies the presence of IgM and IgG antibodies",
+      "h2": "Most accurate at least 14 days after you have experienced any symptoms",
+      "h3": "Can also show presence of antibodies in those who have been exposed to COVID-19 but not noticed any symptoms",
+      "m1": "IgM and IgG antibody results delivered together with a medical report to your personal digital journal.",
+      "m2": "Cathrine - \"My employer arranged for a nurse to come to the office, and the test itself was quick and easy. I received the results two days later in my digital journal together with a medical report explaining my results.”",
+      "description": "This test is used to tell if someone has had the virus or not, but it is not yet known if, or to which degree, it can offer protection against future infection, or for how long any potential immunity will last. \n\nThe analysis is done by an accredited laboratory, and it detects the presence of both IgM and IgG antibodies.",
+      "createdDate": "2020-06-05T19:08:38.837Z",
+      "updatedDate": "2021-03-01T23:17:35.219Z",
+      "skuText": "1919",
+      "urlTitle": "covid-19-antibodies",
+      "__v": 9,
+      "extras": {
+        "keywords": "IgM, IgG",
+        "color": "#dff5f1",
+        "buttonColor": "#56b8a7",
+        "blockPageAccess": false,
+        "externalBooking": {
+          "url": "https://meliouk.simplybook.it/v2/#book",
+          "availabilityButton": "Check booking availability",
+          "availabilityDescription": "Complete the purchase before making your booking",
+          "bookingText": "Remember to book your appointment",
+          "bookingButton": "Book Now",
+          "simplybook": {
+            "widget_type": "iframe",
+            "url": "https://meliouk.simplybook.it",
+            "theme": "hugo",
+            "theme_settings": {
+              "timeline_hide_unavailable": "0",
+              "timeline_show_end_time": "0",
+              "timeline_modern_display": "as_slots",
+              "nav_bg_color": "#626787",
+              "sb_base_color": "#97d1c7",
+              "display_item_mode": "block",
+              "body_bg_color": "#000000",
+              "dark_font_color": "#303240",
+              "light_font_color": "#595b67",
+              "sb_company_label_color": "#ffffff",
+              "hide_img_mode": "0",
+              "show_sidebar": "1",
+              "sb_busy": "#e69896",
+              "sb_available": "#ebf3fa"
+            },
+            "timeline": "modern",
+            "datepicker": "top_calendar",
+            "is_rtl": false,
+            "app_config": { "predefined": { "service": "1" } }
+          }
+        },
+        "shoppingCart": {
+          "displayPrice": true,
+          "displayDelete": true
+        },
+        "bodies": { "COVID-19 Antibodies": "Detection of antibodies (immunoglobulins) in blood is a test that indirectly determines contact with a virus (or other pathogens) by evaluating the response of the immune system against it." },
+        "bloodTestGroups": {
+          "COVID-19 Antibodies": {
+            "IgM": {
+              "id": "covid19_igm",
+              "label": "IgM",
+              "link": "/issue/covid-19-antibodies"
+            },
+            "IgG": {
+              "id": "covid19_igg",
+              "label": "IgG",
+              "link": "/issue/covid-19-antibodies"
+            }
+          }
+        }
+      },
+      "instructions": [
+        {
+          "_id": "5fa4df770b463d00119a69ad",
+          "name": "tubes",
+          "doc": [ "1 x Gold Tube", "1 x Red Tube" ]
+        }
+      ],
+      "cents": 7900,
+      "unit": "£",
+      "id": "5eda98366c6be10018d36a9e"
+    },
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": false,
+      "groups": [
+        {
+          "_id": "5ccc3c5c3e7d3c2c12708684",
+          "name": "WorldDominationMVP",
+          "id": "5ccc3c5c3e7d3c2c12708684"
+        }
+      ],
+      "locations": [],
+      "categories": [],
+      "questionnaires": [ "general_medical_questionnaire_uk" ],
+      "professionalQuestionnaires": [],
+      "markers": [],
+      "ignored": [],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": {
+        "superdrug": "superdrugServiceId",
+        "superdrugCompanyId": "8345",
+        "superdrugServiceId": "2511676"
+      },
+      "hasPreviewEnabled": false,
+      "priority": 900,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5ecfa3e69ce89a001142ee9b",
+      "name": "Health Check Basic",
+      "sku": 44020,
+      "price": 145,
+      "country": "GB",
+      "h1": "50 health markers",
+      "h2": "Designed for adults of any age",
+      "h3": "Includes cholesterol, vitamin D, and glucose",
+      "m1": "More than 80% of our users find something to improve with the results.",
+      "m2": "Caroline - “I bought my test online, stopped by a nearby location, and received my results online within 24 hours with an in-depth comment from a doctor. I got the answers I was looking for!”",
+      "description": "If you want a comprehensive overview of your current health status, a general health check is a good place to start. \n\nYour results will be delivered together with a personal comment from one of our doctors. No additional fee will be added for the blood draw at any of our locations.\nPlease note that this test should be taken while fasted.",
+      "createdDate": "2020-05-28T11:43:34.724Z",
+      "updatedDate": "2021-01-27T14:13:44.752Z",
+      "skuText": "44020",
+      "urlTitle": "health-check-basic",
+      "__v": 17,
+      "extras": {
+        "keywords": "blood testing",
+        "booking": {
+          "text": "Your next step",
+          "linkText": "Start Booking",
+          "url": "https://simple"
+        },
+        "color": "#ebf3fa",
+        "partner": {
+          "name": "Accenture",
+          "logo": "https://assets1.consumergoods.com/styles/content_sm/s3/2019-10/cq5dam.thumbnail.360.360.png?itok=KyM7X1Ia",
+          "text": "Recuerda que para beneficiarte del descuento debes pagar con la tarjeta Cobee.",
+          "textColor": "#56B8A7"
+        },
+        "buttonColor": "#6791df",
+        "promotionMessage": "Designed by our medical team to provide a good overview of your current health status. It includes 8 health areas with 50 biomarkers and a personal medical comment.",
+        "markerGroups": [
+          {
+            "name": "Cardiovascular",
+            "icon": "lipids.png"
+          },
+          {
+            "name": "Inflammation",
+            "icon": "inflammation.png"
+          },
+          {
+            "name": "Diabetes",
+            "icon": "diabetes.png"
+          },
+          {
+            "name": "Blood status",
+            "icon": "hemogram.png"
+          },
+          {
+            "name": "Kidney function",
+            "icon": "renal.png"
+          },
+          {
+            "name": "Liver function",
+            "icon": "liver.png"
+          },
+          {
+            "name": "Vitamins and Minerals",
+            "icon": "vitamins.png"
+          },
+          {
+            "name": "Other",
+            "icon": "others.png"
+          }
+        ],
+        "bodies": {
+          "Overview": "Designed by our medical team to provide a good overview of your current health status. It includes 8 health areas with 50 biomarkers and a personal medical report.",
+          "Cardiovascular": "Cardiovascular disease is the leading cause of death in the world, but it can be prevented. Dyslipidemia (excess of triglycerides and cholesterol in blood) is one of the most important risk factors. High levels can effectively be controlled through diet and exercise.",
+          "Inflammation": "Increased markers of inflammation can be due to a number of causes including infection, joint problems and can even be a risk factor for heart disease.",
+          "Diabetes": "Diabetes occurs when the body’s ability to regulate the amount of blood sugar (glucose) is impaired. In type 1 diabetes the body is no longer able to produce insulin, and in the more common type 2 (which occurs more frequently with age) the body is no longer sensitive to its action. Lifestyle changes can prevent pre-diabetes from progressing to type 2 diabetes, as well as being effective in treatment. The purpose of diabetes related tests is to detect pre-diabetes and undiagnosed diabetes, as well as to monitor how well the diabetes is controlled.",
+          "Blood status": "There are 3 main types of cells in the blood – platelets (important for stopping bleeding), white cells (to fight infection) and red cells (carries oxygen around the body). A full blood count provides information about these cells. For example, if someone is feeling tired frequently, the blood status can determine whether anaemia (low red cells) is a cause for this.",
+          "Kidney function": "The kidney profile consists of a set of tests used to evaluate the function of the kidneys. Kidneys remove waste products and excess water from the body. If not functioning properly, waste products can accumulate and make an individual unwell. There are a number of reasons that the kidneys may not be working correctly including diabetes and cardiovascular disease.",
+          "Liver function": "The liver is essential for digesting food as well as removing the body of toxic substances. If the liver is not functioning correctly it can make an individual unwell. There are a number of causes for a liver not functioning correctly including infection, alcohol use, and certain medications and food supplements.",
+          "Vitamins and Minerals": "Vitamins and minerals are essential nutrients that are required by the body to work properly and stay healthy. There are 13 main types of vitamins – such as Vitamin D, and a number of minerals such as iron. Ensuring an adequate amount of vitamins and minerals is crucial for the regulation of many bodily functions, such as the formation of blood cells, tissues, genetic material and hormones.",
+          "Other": "For men taking this test, PSA (Prostate Specific Antigen) levels are also included. PSA is a protein which produced by the prostate, with high levels often associated with prostate cancer."
+        },
+        "bloodTestGroups": {
+          "Overview": {
+            "Colesterol total": {
+              "id": "tot_chol",
+              "label": "Total Cholesterol",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "Colesterol-HDL": {
+              "id": "hdl",
+              "label": "HDL Cholesterol",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "Colesterol-LDL": {
+              "id": "ldl",
+              "label": "LDL Colesterol",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "Triglicéridos": {
+              "id": "tri",
+              "label": "Triglycerides",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "HBA1C": {
+              "id": "hba1c",
+              "label": "HbA1c",
+              "link": "/issue/hba1c_dev"
+            },
+            "Glucosa": {
+              "id": "glu",
+              "label": "Glucose",
+              "link": "/issue/glucose_dev"
+            },
+            "Creatinina": {
+              "id": "crea",
+              "label": "Creatinine",
+              "link": "/markers?id=crea"
+            },
+            "Sodio": {
+              "id": "na",
+              "label": "Sodium",
+              "link": "/markers?id=na"
+            },
+            "Potasio": {
+              "id": "k",
+              "label": "Potassium",
+              "link": "/markers?id=k"
+            },
+            "Filtrado glomerular": {
+              "id": "fg",
+              "label": "Glomerular Filtration Rate",
+              "link": "issue?id=tasa-de-filtracion-glomerular-estimada-egfr"
+            },
+            "URE": {
+              "id": "ure",
+              "label": "Urea",
+              "link": "/markers?id=ure"
+            },
+            "URI": {
+              "id": "uri",
+              "label": "Uric Acid",
+              "link": "/markers?id=uri"
+            },
+            "Transaminasa GPT (ALT)": {
+              "id": "alt",
+              "label": "ALT",
+              "link": "markers?id=alt"
+            },
+            "AST": {
+              "id": "ast",
+              "label": "AST",
+              "link": "/markers?id=ast"
+            },
+            "GGT": {
+              "id": "ggt",
+              "label": "GGT",
+              "link": "/markers?id=ggt"
+            },
+            "Bilirrubina": {
+              "id": "bilt",
+              "label": "Bilirrubin",
+              "link": "/markers?id=bilt"
+            },
+            "Fosfatasa": {
+              "id": "alp",
+              "label": "ALP",
+              "link": "/markers?id=alp"
+            },
+            "Albumina": {
+              "id": "alb",
+              "label": "Albumin",
+              "link": "/markers?id=alb"
+            },
+            "Fólico": {
+              "id": "folic",
+              "label": "Folate (B9)",
+              "link": "/markers?id=folic"
+            },
+            "B12": {
+              "id": "vitab12",
+              "label": "Vitamin B12",
+              "link": "/markers?id=vitab12"
+            },
+            "Vitamina D": {
+              "id": "vitad25",
+              "label": "Vitamin D",
+              "link": "/markers?id=vitad25"
+            },
+            "Calcio": {
+              "id": "ca",
+              "label": "Calcium",
+              "link": "/markers?id=ca"
+            },
+            "Magnesio": {
+              "id": "mg",
+              "label": "Magnesium",
+              "link": "/markers?id=mg#/"
+            },
+            "Hierro": {
+              "id": "fe",
+              "label": "Iron",
+              "link": "/markers?id=ironProfile"
+            },
+            "Ferritina": {
+              "id": "ferri",
+              "label": "Ferritin",
+              "link": "/markers?id=ferri"
+            },
+            "Transferrina": {
+              "id": "transf",
+              "label": "Transferrin",
+              "link": "/markers?id=ironProfile"
+            },
+            "Transferencia": {
+              "id": "transf_sat",
+              "label": " Transferrin Saturation",
+              "link": "/markers?id=ironProfile"
+            },
+            "CRP": {
+              "id": "crp",
+              "label": "C-Reactive Protein (CRP)",
+              "link": "/markers?id=crp"
+            },
+            "Sedmientación": {
+              "id": "esr",
+              "label": "Sedimentation Rate (ESR)",
+              "link": "/markers?id=esr"
+            },
+            "PSA": {
+              "id": "psa",
+              "label": "PSA",
+              "link": "/markers?id=psa"
+            },
+            "Leucocitos": {
+              "id": "leuk",
+              "label": "Numero total de leucocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "Hematíes": {
+              "id": "rbc",
+              "label": "Número total hematíes",
+              "link": "/markers?id=hemogram"
+            },
+            "Hemogolobina": {
+              "id": "hgb",
+              "label": "Hemogolobina",
+              "link": "/markers?id=hemogram"
+            },
+            "Hematocrito": {
+              "id": "pcv",
+              "label": "Hematocrito",
+              "link": "/markers?id=hemogram"
+            },
+            "ADE": {
+              "id": "rdw",
+              "label": "Amplitud de la distribución eritrocitaria (ADE)",
+              "link": "/markers?id=hemogram"
+            },
+            "Plaquetas": {
+              "id": "plat",
+              "label": "Número total plaquetas",
+              "link": "/markers?id=hemogram"
+            },
+            "MPV": {
+              "id": "mpv",
+              "label": "Volumen plaquetar medio",
+              "link": "/markers?id=hemogram"
+            },
+            "LINFOP": {
+              "id": "linfo_p",
+              "label": "Porcentaje de linfocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "MONOP": {
+              "id": "mono_p",
+              "label": "Porcentaje de monocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "NEUTROP": {
+              "id": "seg_p",
+              "label": "Porcentaje de neutrófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "EOSP": {
+              "id": "eos_p",
+              "label": "Porcentaje de eosinófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "BASOP": {
+              "id": "baso_p",
+              "label": "Porcentaje de basófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "MCV": {
+              "id": "mcv",
+              "label": "Volumen corpuscular medio sangre",
+              "link": "/markers?id=hemogram"
+            },
+            "MCH": {
+              "id": "mch",
+              "label": "Hemoglobina corpuscular media",
+              "link": "/markers?id=hemogram"
+            },
+            "MCHC": {
+              "id": "mchc",
+              "label": "Concentración de hemoglobina corpuscular media",
+              "link": "/markers?id=hemogram"
+            },
+            "Linfocitos": {
+              "id": "linfo_n",
+              "label": "Número de linfocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "Monocitos": {
+              "id": "mono_n",
+              "label": "Número de monocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "Neutrófilos": {
+              "id": "seg_n",
+              "label": "Número de neutrófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "Eosinófilos": {
+              "id": "eos_n",
+              "label": "Número de eosinófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "Basófilos": {
+              "id": "baso_n",
+              "label": "Número de basófilos",
+              "link": "/markers?id=hemogram"
+            }
+          },
+          "Cardiovascular": {
+            "Colesterol total": {
+              "id": "tot_chol",
+              "label": "Total Cholesterol",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "Colesterol-HDL": {
+              "id": "hdl",
+              "label": "HDL Cholesterol",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "Colesterol-LDL": {
+              "id": "ldl",
+              "label": "LDL Cholesterol",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            },
+            "Triglicéridos": {
+              "id": "tri",
+              "label": "Triglycerides",
+              "link": "/issue/cholesterol-and-triglycerides_dev"
+            }
+          },
+          "Diabetes": {
+            "HBA1C": {
+              "id": "hba1c",
+              "label": "HbA1c",
+              "link": "/issue/hba1c_dev "
+            },
+            "Glucosa": {
+              "id": "glu",
+              "label": "Glucose",
+              "link": "/issue/glucose_dev"
+            }
+          },
+          "Kidney function": {
+            "Creatinina": {
+              "id": "crea",
+              "label": "Creatinine",
+              "link": "/markers?id=crea"
+            },
+            "Sodio": {
+              "id": "na",
+              "label": "Sodium",
+              "link": "/markers?id=na"
+            },
+            "Potasio": {
+              "id": "k",
+              "label": "Potassium",
+              "link": "/markers?id=k"
+            },
+            "Filtrado glomerular": {
+              "id": "fg",
+              "label": "Glomerular Filtration Rate",
+              "link": "issue?id=tasa-de-filtracion-glomerular-estimada-egfr"
+            },
+            "URE": {
+              "id": "ure",
+              "label": "Urea",
+              "link": "/markers?id=ure"
+            },
+            "URI": {
+              "id": "uri",
+              "label": "Uric Acid",
+              "link": "/markers?id=uri"
+            }
+          },
+          "Liver function": {
+            "Transaminasa GPT (ALT)": {
+              "id": "alt",
+              "label": "ALT",
+              "link": "markers?id=alt"
+            },
+            "AST": {
+              "id": "ast",
+              "label": "AST",
+              "link": "/markers?id=ast"
+            },
+            "GGT": {
+              "id": "ggt",
+              "label": "GGT",
+              "link": "/markers?id=ggt"
+            },
+            "Bilirrubina": {
+              "id": "bilt",
+              "label": "Bilirrubin",
+              "link": "/markers?id=bilt"
+            },
+            "Fosfatasa": {
+              "id": "alp",
+              "label": "ALP",
+              "link": "/markers?id=alp"
+            },
+            "Albumina": {
+              "id": "alb",
+              "label": "Albumin",
+              "link": "/markers?id=alb"
+            }
+          },
+          "Vitamins and Minerals": {
+            "Fólico": {
+              "id": "folic",
+              "label": "Folate (B9)",
+              "link": "/markers?id=folic"
+            },
+            "B12": {
+              "id": "vitab12",
+              "label": "Vitamin B12",
+              "link": "/markers?id=vitab12"
+            },
+            "Vitamina D": {
+              "id": "vitad25",
+              "label": "Vitamin D",
+              "link": "/markers?id=vitad25"
+            },
+            "Calcio": {
+              "id": "ca",
+              "label": "Calcium",
+              "link": "/markers?id=ca"
+            },
+            "Magnesio": {
+              "id": "mg",
+              "label": "Magnesium",
+              "link": "/markers?id=mg#/"
+            },
+            "Hierro": {
+              "id": "fe",
+              "label": "Iron",
+              "link": "/markers?id=ironProfile"
+            },
+            "Ferritina": {
+              "id": "ferri",
+              "label": "Ferritin",
+              "link": "/markers?id=ferri"
+            },
+            "Transferrina": {
+              "id": "transf",
+              "label": "Transferrin",
+              "link": "/markers?id=ironProfile"
+            },
+            "Transferencia": {
+              "id": "transf_sat",
+              "label": " Transferrin Saturation",
+              "link": "/markers?id=ironProfile"
+            }
+          },
+          "Blood status": {
+            "Leucocitos": {
+              "id": "leuk",
+              "label": "Leukocytes",
+              "link": "/markers?id=hemogram"
+            },
+            "Hematíes": {
+              "id": "rbc",
+              "label": "Red Blood Cell Count (RBC)",
+              "link": "/markers?id=hemogram"
+            },
+            "Hemogolobina": {
+              "id": "hgb",
+              "label": "Hemoglobin",
+              "link": "/markers?id=hemogram"
+            },
+            "Hematocrito": {
+              "id": "pcv",
+              "label": "Hematocrit (PCV)",
+              "link": "/markers?id=hemogram"
+            },
+            "ADE": {
+              "id": "rdw",
+              "label": "Red Cell Distribution Width (RDW)",
+              "link": "/markers?id=hemogram"
+            },
+            "Plaquetas": {
+              "id": "plat",
+              "label": "Platelet Count",
+              "link": "/markers?id=hemogram"
+            },
+            "MPV": {
+              "id": "mpv",
+              "label": "Mean platelet volume (MPV)",
+              "link": "/markers?id=hemogram"
+            },
+            "LINFOP": {
+              "id": "linfo_p",
+              "label": "Percentage of lymphocytes",
+              "link": "/markers?id=hemogram"
+            },
+            "MONOP": {
+              "id": "mono_p",
+              "label": "Percentage of monocytes",
+              "link": "/markers?id=hemogram"
+            },
+            "NEUTROP": {
+              "id": "seg_p",
+              "label": "Percentage of neutrophils",
+              "link": "/markers?id=hemogram"
+            },
+            "EOSP": {
+              "id": "eos_p",
+              "label": "Percentage of eosinophils",
+              "link": "/markers?id=hemogram"
+            },
+            "BASOP": {
+              "id": "baso_p",
+              "label": "Percentage of basophils",
+              "link": "/markers?id=hemogram"
+            },
+            "MCV": {
+              "id": "mcv",
+              "label": "Mean Corpuscular Volume (MCV)",
+              "link": "/markers?id=hemogram"
+            },
+            "MCH": {
+              "id": "mch",
+              "label": "Hemoglobin mass (MCH)",
+              "link": "/markers?id=hemogram"
+            },
+            "MCHC": {
+              "id": "mchc",
+              "label": "Mean corpuscular hemoglobin concentration (MCHC)",
+              "link": "/markers?id=hemogram"
+            },
+            "Linfocitos": {
+              "id": "linfo_n",
+              "label": "Lymphocytes",
+              "link": "/markers?id=hemogram"
+            },
+            "Monocitos": {
+              "id": "mono_n",
+              "label": "Monocytes",
+              "link": "/markers?id=hemogram"
+            },
+            "Neutrófilos": {
+              "id": "seg_n",
+              "label": "Neutrophils",
+              "link": "/markers?id=hemogram"
+            },
+            "Eosinófilos": {
+              "id": "eos_n",
+              "label": "Eosinophils",
+              "link": "/markers?id=hemogram"
+            },
+            "Basófilos": {
+              "id": "baso_n",
+              "label": "Basophils",
+              "link": "/markers?id=hemogram"
+            }
+          },
+          "Inflammation": {
+            "CRP": {
+              "id": "crp",
+              "label": "C-Reactive Protein (CRP)",
+              "link": "/markers?id=crp"
+            },
+            "Sedmientación": {
+              "id": "esr",
+              "label": "Sedimentation Rate (ESR)",
+              "link": "/markers?id=esr"
+            }
+          },
+          "Other": {
+            "PSA": {
+              "id": "psa",
+              "label": "PSA",
+              "link": "/markers?id=psa"
+            }
+          }
+        }
+      },
+      "emailPurchaseTemplateId": "d-bb432fe1c8074e4eb275ac08de4200b8",
+      "instructions": [
+        {
+          "_id": "5fa4e0950b463d00119a69b0",
+          "doc": [ "1 x Gold tube", "1 x swab", "1 x ..." ],
+          "name": "tubes"
+        },
+        {
+          "_id": "5fa4e0950b463d00119a69b1",
+          "doc": [ "Print form" ],
+          "name": "return form"
+        }
+      ],
+      "cents": 14500,
+      "unit": "£",
+      "id": "5ecfa3e69ce89a001142ee9b"
+    },
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": false,
+      "groups": [
+        {
+          "_id": "5ccc3c5c3e7d3c2c12708684",
+          "name": "WorldDominationMVP",
+          "id": "5ccc3c5c3e7d3c2c12708684"
+        }
+      ],
+      "locations": [],
+      "categories": [],
+      "questionnaires": [],
+      "professionalQuestionnaires": [],
+      "markers": [ "fsh", "e2", "amh", "testos", "lh", "prl", "tsh", "ft3", "ft4", "leuk", "rbc", "hgb", "pcv", "rdw", "plat", "mpv", "linfo_p", "mono_p", "seg_p", "eos_p", "baso_p", "mcv", "mch", "mchc", "linfo_n", "mono_n", "seg_n", "eos_n", "baso_n", "fibrid", "fsh", "e2", "amh", "testos", "lh", "prl", "tsh", "ft3", "ft4", "leuk", "rbc", "hgb", "pcv", "rdw", "plat", "mpv", "linfo_p", "mono_p", "seg_p", "eos_p", "baso_p", "mcv", "mch", "mchc", "linfo_n", "mono_n", "seg_n", "eos_n", "baso_n", "fibrid", "fsh", "e2", "amh", "testos", "lh", "prl", "tsh", "ft3", "ft4", "leuk", "rbc", "hgb", "pcv", "rdw", "plat", "mpv", "linfo_p", "mono_p", "seg_p", "eos_p", "baso_p", "mcv", "mch", "mchc", "linfo_n", "mono_n", "seg_n", "eos_n", "baso_n", "fibrid" ],
+      "ignored": [ "a", "b", "BANANA" ],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": { "unilabs": "MELIO6" },
+      "hasPreviewEnabled": false,
+      "priority": 800,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5e1492f857deca001927415a",
+      "name": "Dev Estudio de fertilidad Melio",
+      "price": 118,
+      "sku": 5005,
+      "extras": {
+        "keywords": "prueba de fertilidad en madrid",
+        "color": "#fff7ee",
+        "buttonColor": "#f5cfa3",
+        "bodies": {
+          "Hormonas sexuales": "Es requisito imprescindible para la concepción que la función ovárica esté conservada. Estudio de hormonas asociadas a reserva ovárica o a fertilidad.",
+          "Hemograma": "Un hemograma es el análisis de un grupo de biomarcadores que da información acerca de los 3 tipos de células en la sangre. Se utiliza de manera habitual para detectar casos de anemia, infección y el estudio de enfermedades hematológicas. Es especialmente importante en el diagnóstico de anemias combinado con un perfil férrico.",
+          "Perfil tiroideo": "El tiroides es una glándula situada en el cuello que produce las hormonas encargadas del control del metabolismo o la regulación del uso y almacenamiento de energía corporal. El perfil tiroideo se utiliza para evaluar la función tiroidea como diagnóstico y control del hipotiroidismo y del hipertiroidismo.",
+          "Prolactina": "La prolactina (PRL) es una hormona secretada por la parte anterior de la hipófisis, que estimula la producción de leche en las glándulas mamarias y la síntesis de progesterona por el cuerpo lúteo en el ovario."
+        },
+        "bloodTestGroups": {
+          "Hormonas sexuales": {
+            "FSH": {
+              "id": "fsh",
+              "label": "FSH",
+              "link": "/issue?id=hormonas-sexuales-femeninas"
+            },
+            "E2": {
+              "id": "e2",
+              "label": "Estradiol",
+              "link": "/issue?id=hormonas-sexuales-femeninas"
+            },
+            "AMH": {
+              "id": "amh",
+              "label": "Hormona Antimulleriana",
+              "link": "/issue?id=hormonas-sexuales-femeninas"
+            },
+            "TESTOS": {
+              "id": "testos",
+              "label": "Testosterona",
+              "link": "/issue?id=hormonas-sexuales-femeninas"
+            },
+            "LH": {
+              "id": "lh",
+              "label": "Hormona luteinizante (HL)",
+              "link": "/issue?id=hormonas-sexuales-femeninas"
+            }
+          },
+          "Perfil tiroideo": {
+            "TSH": {
+              "id": "tsh",
+              "label": "Tirotropina (TSH)",
+              "link": "/markers?id=tsh"
+            },
+            "T4": {
+              "id": "ft4",
+              "label": "Triyodotironina (T4)",
+              "link": "/markers?id=thyroidProfile"
+            },
+            "T3": {
+              "id": "ft3",
+              "label": "Triyodotironina (T3)",
+              "link": "/markers?id=thyroidProfile"
+            }
+          },
+          "Hemograma": {
+            "Leucocitos": {
+              "id": "leuk",
+              "label": "Numero total de leucocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "Hematíes": {
+              "id": "rbc",
+              "label": "Número total hematíes",
+              "link": "/markers?id=hemogram"
+            },
+            "Hemogolobina": {
+              "id": "hgb",
+              "label": "Hemogolobina",
+              "link": "/markers?id=hemogram"
+            },
+            "Hematocrito": {
+              "id": "pcv",
+              "label": "Hematocrito",
+              "link": "/markers?id=hemogram"
+            },
+            "ADE": {
+              "id": "rdw",
+              "label": "Amplitud de la distribución eritrocitaria (ADE)",
+              "link": "/markers?id=hemogram"
+            },
+            "Plaquetas": {
+              "id": "plat",
+              "label": "Número total plaquetas",
+              "link": "/markers?id=hemogram"
+            },
+            "MPV": {
+              "id": "mpv",
+              "label": "Volumen plaquetar medio",
+              "link": "/markers?id=hemogram"
+            },
+            "LINFOP": {
+              "id": "linfo_p",
+              "label": "Porcentaje de linfocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "MONOP": {
+              "id": "mono_p",
+              "label": "Porcentaje de monocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "NEUTROP": {
+              "id": "seg_p",
+              "label": "Porcentaje de neutrófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "EOSP": {
+              "id": "eos_p",
+              "label": "Porcentaje de eosinófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "BASOP": {
+              "id": "baso_p",
+              "label": "Porcentaje de basófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "MCV": {
+              "id": "mcv",
+              "label": "Volumen corpuscular medio sangre",
+              "link": "/markers?id=hemogram"
+            },
+            "MCH": {
+              "id": "mch",
+              "label": "Hemoglobina corpuscular media",
+              "link": "/markers?id=hemogram"
+            },
+            "MCHC": {
+              "id": "mchc",
+              "label": "Concentración de hemoglobina corpuscular media",
+              "link": "/markers?id=hemogram"
+            },
+            "Linfocitos": {
+              "id": "linfo_n",
+              "label": "Número de linfocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "Monocitos": {
+              "id": "mono_n",
+              "label": "Número de monocitos",
+              "link": "/markers?id=hemogram"
+            },
+            "Neutrófilos": {
+              "id": "seg_n",
+              "label": "Número de neutrófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "Eosinófilos": {
+              "id": "eos_n",
+              "label": "Número de eosinófilos",
+              "link": "/markers?id=hemogram"
+            },
+            "Basófilos": {
+              "id": "baso_n",
+              "label": "Número de basófilos",
+              "link": "/markers?id=hemogram"
+            }
+          },
+          "Prolactina": {
+            "PRL": {
+              "id": "prl",
+              "label": "Prolactina",
+              "link": "/issue?id=prolactina"
+            }
+          }
+        }
+      },
+      "description": "Con un simple análisis de sangre Melio te ayudamos a tener información sobre las hormonas clave asociadas a la fertilidad femenina. Con Melio tendrás el mismo análisis que en una clínica a una fracción del precio habitual incluyendo una estimación de tu reserva ovárica. Sin cita previa, sin esperas, simplemente acude a un centro y obtén tus resultados. Esta prueba debe realizarse entre el tercer y el quinto día del ciclo menstrual.",
+      "h1": "1 Estudio de fertilidad femenina",
+      "h2": "Reserva ovárica y estudio hormonal",
+      "h3": "Sin cita previa. Resultados rápidos y fiables",
+      "m1": "Resultados revisados por un especialista con un comentario personalizado. No esperes, sin cita previa, resultados en 48 horas.",
+      "m2": "Recuerda hacer la prueba entre el tercer y el quinto día del ciclo. Incluye hormona antimulleriana.",
+      "createdDate": "2020-01-07T14:17:28.327Z",
+      "updatedDate": "2020-04-06T15:44:52.600Z",
+      "__v": 5,
+      "config": { "isColoring": false },
+      "country": "GB",
+      "skuText": "5005",
+      "urlTitle": "dev-estudio-de-fertilidad-melio",
+      "instructions": [],
+      "cents": 11800,
+      "unit": "£",
+      "id": "5e1492f857deca001927415a"
+    },
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": true,
+      "groups": [
+        {
+          "_id": "5ccc3c5c3e7d3c2c12708684",
+          "name": "WorldDominationMVP",
+          "id": "5ccc3c5c3e7d3c2c12708684"
+        }
+      ],
+      "locations": [],
+      "categories": [],
+      "questionnaires": [],
+      "professionalQuestionnaires": [],
+      "markers": [],
+      "ignored": [],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": {},
+      "hasPreviewEnabled": true,
+      "priority": 500,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5f3ce48e846c1a00187e1d5b",
+      "name": "COVID-19 PCR Test",
+      "sku": 44015,
+      "country": "GB",
+      "price": 150,
+      "emailPurchaseTemplateId": "d-26506be8d7f14360befa135f7cb26a41",
+      "h1": "Nasopharyngeal swab test carried out by a trained health professional",
+      "h2": "Includes a medical review and Fit-To-Fly certificate",
+      "h3": "RT-PCR test for direct detection of the SARS-CoV-2 virus",
+      "m1": "Results within 48 hours.",
+      "m2": "Including a personalised medical report by a GMC registered doctor and Fit-To-Fly certificate for negative cases.",
+      "description": "This swab test is taken at one of our London locations, by a trained professional. The price includes a medical review and a Fit-To-Fly certificate for negative PCR results.\n\nThe test is used to tell whether or not you currently have the virus. It involves taking a swab from the inside of your nose and the back of your throat. \n\nA negative PCR test may be required for travelling to certain destinations. For tests taken Monday - Thursday, you can expect to get your results within 48 hours. For tests taken on a Friday, results will be delivered on Monday evening.",
+      "createdDate": "2020-08-19T08:36:30.776Z",
+      "updatedDate": "2021-02-22T14:00:49.114Z",
+      "skuText": "44015",
+      "urlTitle": "covid-19-pcr-test",
+      "__v": 3,
+      "extras": {
+        "keywords": "PCR, swab, antigen, fit-to-fly, travel certificate",
+        "testType": "Swab test",
+        "color": "#dff5f1",
+        "buttonColor": "#56b8a7",
+        "blockPageAccess": false,
+        "externalBooking": {
+          "url": "https://meliouk.simplybook.it/v2/#book/location/2/count/1/",
+          "availabilityButton": "Check booking availability",
+          "availabilityDescription": "Complete the purchase before making your booking",
+          "bookingText": "Remember to book your appointment",
+          "bookingButton": "Book Now",
+          "simplybook": {
+            "widget_type": "iframe",
+            "url": "https://meliouk.simplybook.it",
+            "theme": "hugo",
+            "theme_settings": {
+              "timeline_hide_unavailable": "0",
+              "timeline_show_end_time": "0",
+              "timeline_modern_display": "as_slots",
+              "nav_bg_color": "#626787",
+              "sb_base_color": "#97d1c7",
+              "display_item_mode": "block",
+              "body_bg_color": "#000000",
+              "dark_font_color": "#303240",
+              "light_font_color": "#595b67",
+              "sb_company_label_color": "#ffffff",
+              "hide_img_mode": "0",
+              "show_sidebar": "1",
+              "sb_busy": "#e69896",
+              "sb_available": "#ebf3fa"
+            },
+            "timeline": "modern",
+            "datepicker": "top_calendar",
+            "is_rtl": false,
+            "app_config": { "predefined": { "service": "6" } }
+          }
+        },
+        "shoppingCart": {
+          "displayPrice": true,
+          "displayDelete": true
+        },
+        "bodies": { "COVID-19 PCR": "This PCR swab test is used to tell whether or not you currently have the SARS-CoV-2. The test includes a medical review and a Fit-To-Fly certificate for negative PCR results." },
+        "bloodTestGroups": {
+          "COVID-19 PCR": {
+            "IgM": {
+              "id": "covid19_pcr",
+              "label": "PCR"
+            },
+            "IgG": {
+              "id": "Fit-To-Fly",
+              "label": "Fit-To-Fly Certificate",
+              "link": "/issue/fit-to-fly-certificate"
+            }
+          }
+        }
+      },
+      "instructions": [
+        {
+          "_id": "5faab8818ba7170018f83771",
+          "doc": [ "1 x Green top tube", "1 x Swab" ],
+          "name": "sampling"
+        },
+        {
+          "_id": "5faab8818ba7170018f83772",
+          "doc": [ "Label the tube with the order ID and personal identifiers (full name, birth date and gender)." ],
+          "name": "label"
+        },
+        {
+          "_id": "5faab8818ba7170018f83773",
+          "doc": [
+            "Fill out the return form and place it in the pocket on the outside of the sample bag.",
+            {
+              "label": "Download return form",
+              "link": "https://coffeefortech.s3.eu-west-1.amazonaws.com/media/1605106558082.pdf"
+            }
+          ],
+          "name": "return form"
+        }
+      ],
+      "cents": 15000,
+      "unit": "£",
+      "id": "5f3ce48e846c1a00187e1d5b"
+    },
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": false,
+      "groups": [
+        {
+          "_id": "5ccc3c5c3e7d3c2c12708684",
+          "name": "WorldDominationMVP",
+          "id": "5ccc3c5c3e7d3c2c12708684"
+        }
+      ],
+      "locations": [],
+      "categories": [],
+      "questionnaires": [ "nipt" ],
+      "professionalQuestionnaires": [],
+      "markers": [],
+      "ignored": [],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": {},
+      "hasPreviewEnabled": false,
+      "priority": 100,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5fc506018b52db00111b5aa5",
+      "h1": "Can determine the fetal sex if requested",
+      "name": "NIPT",
+      "sku": 44210,
+      "price": 349,
+      "country": "GB",
+      "description": "Non-Invasive Prenatal Testing (NIPT) is a screening test that looks at the baby’s DNA in the mother’s bloodstream to identify if the baby is affected by certain chromosomal abnormalities.\n\nThe NIPT test is a targeted tested which will identify if the baby has a chance of being affected by Trisomy 21 (Down’s Syndrome), Trisomy 18 (Edwards’ Syndrome) and Trisomy 13 (Patau’s Syndrome).",
+      "emailPurchaseTemplateId": "d-11a42fe639f449b8b0d108eadbfbf6c6",
+      "createdBy": "5ebd8701c2fc0f0018cc95ca",
+      "instructions": [],
+      "createdDate": "2020-11-30T14:47:29.604Z",
+      "updatedDate": "2021-01-28T14:37:52.844Z",
+      "skuText": "44210",
+      "urlTitle": "nipt",
+      "__v": 2,
+      "extras": {
+        "keywords": "Antibody test, Siemens",
+        "testType": "Blood test (in clinic)",
+        "color": "#dff5f1",
+        "buttonColor": "#56b8a7",
+        "blockPageAccess": false,
+        "promotionMessage": "Siemens’ SARS-CoV-2 Total antibody product was the only test to meet both sensitivity and specificity criteria, in an assessment made by Public Health England published in July 2020.",
+        "externalBooking": {
+          "availabilityButton": "Check booking availability",
+          "availabilityDescription": "Complete the purchase before making your booking",
+          "bookingText": "Remember to book your appointment",
+          "bookingButton": "Book Now"
+        },
+        "markerGroups": [
+          {
+            "name": "Hepatitis B Immunity",
+            "icon": "hemogram.png"
+          }
+        ],
+        "bodies": { "Hepatitis B Immunity": " The presence of these antibodies provide us with immunity against hepatitis B infection. Measurement of anti-HBs can identify previous hepatitis B infection or successful vaccination against hepatitis B." },
+        "bloodTestGroups": { "Hepatitis B Immunity": { "TOTAL": { "id": "hbsup" } } }
+      },
+      "h2": "In-clinic blood test",
+      "h3": "No risk to the mother or baby",
+      "m1": "The test requires a blood sample taken from the mother’s arm and carries no risk to the mother or baby.",
+      "m2": "100% sensitive for Down’s and Patau’s Syndromes and 91.7% sensitive for Edwards’ Syndrome.",
+      "referralConfig": {
+        "referralType": "SAMPLING",
+        "laboratories": [ "nottingham" ],
+        "isLegacyReferral": false,
+        "_id": "6012cc407b47e4edeebdab9f",
+        "link": "https://www.meliohealth.co.uk/pro/dt/x-req/$id"
+      },
+      "cents": 34900,
+      "unit": "£",
+      "id": "5fc506018b52db00111b5aa5"
+    },
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": false,
+      "groups": [
+        {
+          "_id": "5ccc3c5c3e7d3c2c12708684",
+          "name": "WorldDominationMVP",
+          "id": "5ccc3c5c3e7d3c2c12708684"
+        }
+      ],
+      "locations": [],
+      "categories": [],
+      "questionnaires": [],
+      "professionalQuestionnaires": [],
+      "markers": [],
+      "ignored": [],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": {},
+      "hasPreviewEnabled": false,
+      "priority": 0,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5ecf97a39ce89a001142eb68",
+      "name": "Thyroid function",
+      "price": 65,
+      "sku": 44010,
+      "country": "GB",
+      "h1": "4 thyroid markers",
+      "h2": "Advanced profile to measure your thyroid health",
+      "h3": "Includes thyroid hormones and antibodies",
+      "m1": "About 5% people has some kind of thyroid disorder, but many affected are unaware.",
+      "m2": "Mary - \"The blood tests gave me the answers I needed to get my life back on track.\"",
+      "description": "Thyroid disorders can affect your energy, weight, mood, sleep, and skin. Measure your thyroid function to learn more about your thyroid health.\n\nThe test includes thyroid hormones T3, T4 and TSH, as well as thyroid peroxidase antibodies (TPOAb) .",
+      "createdDate": "2020-05-28T10:51:15.169Z",
+      "updatedDate": "2020-11-11T15:03:27.164Z",
+      "skuText": "44010",
+      "urlTitle": "thyroid-function",
+      "__v": 2,
+      "extras": {
+        "keywords": "thyroid analysis, hypothyroidism test, thyroid test, thyroid test price, high thyroid levels, low thyroid levels",
+        "color": "#dff5f1",
+        "buttonColor": "#56b8a7",
+        "bodies": { "Thyroid profile": "The thyroid is a gland located in the neck that produces the hormones in charge of the metabolism control or the regulation of the use and storage of corporal energy. The thyroid profile is used to evaluate thyroid function to diagnose and control hypothyroidism and hyperthyroidism." },
+        "bloodTestGroups": {
+          "Thyroid profile": {
+            "TSH": {
+              "id": "tsh",
+              "label": "Thyroid Stimulating Hormone (TSH)",
+              "link": "/issue/thyroid-hormones_dev"
+            },
+            "T4": {
+              "id": "ft4",
+              "label": "Thyroxine (T4)",
+              "link": "/issue/thyroid-hormones_dev"
+            },
+            "T3": {
+              "id": "ft3",
+              "label": "Triiodothyronine (T3)",
+              "link": "/issue/thyroid-hormones_dev"
+            },
+            "TPOAb": {
+              "id": "tpo",
+              "label": "Thyroid Peroxidase Antibodies",
+              "link": "/issue/thyroid-hormones_dev"
+            }
+          }
+        }
+      },
+      "emailPurchaseTemplateId": "d-7faca73df27b452abacba495e7206581",
+      "instructions": [
+        {
+          "_id": "5faab8818ba7170018f83771",
+          "doc": [ "1 x Gold top tube" ],
+          "name": "sampling"
+        },
+        {
+          "_id": "5faab8818ba7170018f83772",
+          "doc": [ "Label the tube with the order ID and personal identifiers (full name, birth date and gender)." ],
+          "name": "label"
+        },
+        {
+          "_id": "5faab8818ba7170018f83773",
+          "doc": [
+            "Fill out the return form and place it in the pocket on the outside of the sample bag.",
+            {
+              "label": "Print return form",
+              "link": "https://coffeefortech.s3.eu-west-1.amazonaws.com/media/1605106558082.pdf"
+            }
+          ],
+          "name": "return form"
+        }
+      ],
+      "cents": 6500,
+      "unit": "£",
+      "id": "5ecf97a39ce89a001142eb68"
+    },
+    {
+      "isGroupRestricted": false,
+      "isCertificateEnabled": false,
+      "groups": [
+        {
+          "_id": "5e6124394865eb33ef1f5181",
+          "name": "Fish&Chips",
+          "id": "5e6124394865eb33ef1f5181"
+        }
+      ],
+      "locations": [ "5f75b4a4996f0e0018c009c9", "5f759d0a996f0e0018c00974", "5f759c38996f0e0018c0096f", "5f898ef595dfe00018f71d3f" ],
+      "categories": [],
+      "questionnaires": [ "covid_test" ],
+      "professionalQuestionnaires": [],
+      "markers": [],
+      "ignored": [],
+      "tags": [],
+      "keywords": [],
+      "currency": "gbp",
+      "referrals": {
+        "unilabs": "C19AB",
+        "unilabsUK": "C19AB",
+        "superdrug": "2511631",
+        "superdrugCompanyId": "8345",
+        "superdrugServiceId": "2511631"
+      },
+      "hasPreviewEnabled": false,
+      "priority": 0,
+      "sendEmails": true,
+      "sendPreviewSMS": true,
+      "sendFinalSMS": true,
+      "active": true,
+      "_id": "5e6126156f18e83494c14da7",
+      "name": "COVID-19 Detailed Antibody Test",
+      "price": 99,
+      "sku": 1980,
+      "h1": "Blood test carried out by a trained health professional",
+      "h2": "Helps you determine if the infection was recent.",
+      "h3": "Identifies the presence of both IgM and IgG antibodies separately",
+      "m1": "IgM and IgG antibody results delivered together with a medical report to your personal digital journal.",
+      "description": "This is a test for those who want to know if they have had a COVID-19 infection, with or without symptoms. IgM and IgG results are analysed separately, which can help you determine if the infection was recent or happened a long time ago. Antibody tests should be done at least 3 weeks after onset of disease for accurate results.\n\nThe blood draw will be done at one of our locations . Th test analysis is done by an accredited laboratory, and it detects the presence ofIgM and IgG antibodies. Your test result will tell you if you have SARS-CoV-2 antibodies in your blood, and which class they belong to (IgM and/or IgG).\n\nPlease note that it is not yet known if, or to which degree, COVID-19 antibodies can offer protection against future infection, or for how long any potential immunity will last. You should also know that some people may have recovered from a COVID-19 infection without having detectable levels of antibodies in their blood.",
+      "createdDate": "2020-03-05T16:17:25.861Z",
+      "updatedDate": "2020-10-16T12:18:43.373Z",
+      "__v": 6,
+      "config": { "isColoring": false },
+      "country": "GB",
+      "extras": {
+        "keywords": "IgM, IgG",
+        "color": "#dff5f1",
+        "buttonColor": "#56b8a7",
+        "blockPageAccess": false,
+        "shoppingCart": {
+          "displayPrice": false,
+          "displayDelete": false
+        },
+        "externalBooking": {
+          "url": "https://meliouk.simplybook.it/v2/#book/location/1/count/1/",
+          "availabilityButton": "Check booking availability",
+          "availabilityDescription": "Complete the purchase before making your booking",
+          "bookingText": "Remember to book your appointment",
+          "bookingButton": "Book Now",
+          "simplybook": {
+            "widget_type": "iframe",
+            "url": "https://meliouk.simplybook.it",
+            "theme": "hugo",
+            "theme_settings": {
+              "timeline_hide_unavailable": "0",
+              "timeline_show_end_time": "0",
+              "timeline_modern_display": "as_slots",
+              "nav_bg_color": "#626787",
+              "sb_base_color": "#97d1c7",
+              "display_item_mode": "block",
+              "body_bg_color": "#000000",
+              "dark_font_color": "#303240",
+              "light_font_color": "#595b67",
+              "sb_company_label_color": "#ffffff",
+              "hide_img_mode": "0",
+              "show_sidebar": "1",
+              "sb_busy": "#e69896",
+              "sb_available": "#ebf3fa"
+            },
+            "timeline": "modern",
+            "datepicker": "top_calendar",
+            "is_rtl": false,
+            "app_config": { "predefined": { "service": "1" } }
+          }
+        },
+        "bodies": { "COVID-19 Antibodies": "Detection of antibodies (immunoglobulins) in blood is a test that indirectly determines contact with a virus (or other pathogens) by evaluating the response of the immune system against it." },
+        "bloodTestGroups": {
+          "COVID-19 Antibodies": {
+            "IgM": {
+              "id": "covid19_igm",
+              "label": "IgM",
+              "link": "/issue/covid-19-antibodies"
+            },
+            "IgG": {
+              "id": "covid19_igg",
+              "label": "IgG",
+              "link": "/issue/covid-19-antibodies"
+            }
+          }
+        }
+      },
+      "emailPurchaseTemplateId": "d-eea6ff7ae787430fbad7adb82ae3c7dd",
+      "skuText": "1980",
+      "urlTitle": "covid-19-detailed-antibody-test",
+      "m2": "Cathrine - \"My employer arranged for a nurse to come to the office, and the test itself was quick and easy. I received the results two days later in my digital journal together with a medical report explaining my results.”",
+      "instructions": [],
+      "cents": 9900,
+      "unit": "£",
+      "id": "5e6126156f18e83494c14da7"
+    }
+  ],
+  "total": 7,
+  "limit": 50,
+  "page": 1,
+  "pages": 1
+}
